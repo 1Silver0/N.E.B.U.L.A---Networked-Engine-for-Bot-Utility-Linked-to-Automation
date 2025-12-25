@@ -1,2 +1,8 @@
-# N.E.B.U.L.A---Networked-Engine-for-Bot-Utility-Linked-to-Automation
-This is a repository for my work-in-progress project, N.E.B.U.L.A. N.E.B.U.L.A is a Discord bot, built as a personal assistant.
+This is a small Python project I’m building to practice real-world programming and because I always thought Discord bots were "cool".
+
+Current focus:
+- Input → processing → output
+- Persistent storage with SQLite
+- Clean terminal output
+
+I’m sharing this to get feedback and improve.
