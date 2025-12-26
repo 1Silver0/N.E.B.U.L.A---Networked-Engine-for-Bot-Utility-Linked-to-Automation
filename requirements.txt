@@ -10,3 +10,4 @@ psutil
 gputil
 wmi
 speedtest-cli
+pytest
