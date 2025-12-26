@@ -1,0 +1,12 @@
+discord.py
+aiosqlite
+aiohttp
+matplotlib
+pytz
+cryptography
+python-dotenv
+wikipedia-api
+psutil
+gputil
+wmi
+speedtest-cli
